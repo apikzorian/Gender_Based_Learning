@@ -9,4 +9,4 @@ This study builds on existing research and addresses an underlying gap by focusi
 
 
 
-To learn about the study, open the `Report_Gender_Based_Learning.pdf` to read about our project steps, data collection, results, and analysis. The file `Gender_Based_Learning.Rmd` contains the backend of our data analysis and regressions. Running this will require having the latest version of R. Our data can be found in `Subjects_Performance.csv`
+To learn about the study, open the `Report_Gender_Based_Learning.pdf` to read about our project steps, data collection, results, and analysis. The file `Results_Analsyis.pdf` contains the backend of our data analysis and regressions, compiled using `R`. Our data can be found in `Subjects_Performance.csv`
